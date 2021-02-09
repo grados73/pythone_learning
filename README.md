@@ -9,5 +9,9 @@ This course preapere to pass certification exam PCEP - Certified Entry-Level Pyt
 
 ## Technologies
 Integrated Development Environment PyCharm.
+Python 3.9.1
+
+## Status
+The project is temporarily suspended. I hope to come back to it again
 
 Created by https://www.linkedin.com/in/kamil-gradowski-8706991aa - feel free to contact me! grados73
